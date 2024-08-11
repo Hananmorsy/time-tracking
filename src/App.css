@@ -1,0 +1,22 @@
+main{
+  display: flex;
+  column-gap: 20px;
+  width: 60%;
+  height: 60%;
+  justify-content: center;
+  align-items: center;
+}
+@media only screen and (max-width: 700px) {
+  main{
+    width: 90%;
+    height: auto;
+    column-gap: 0;
+    padding-top: 20px;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 30px;
+   
+  }
+}

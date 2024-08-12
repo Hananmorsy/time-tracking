@@ -68,13 +68,13 @@ p{
     .hours{
         display: flex;
         flex-direction: row;
-        column-gap: 60px;
+        column-gap: 120px;
         font-size: 15px;
     }
     .point{
         width: 100%;
         display: flex;
-        justify-content:space-between;
+        column-gap: 30px;
         align-items: center;
         
         

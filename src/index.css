@@ -30,7 +30,7 @@ body{
   align-items: center;
   justify-content: center;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 600px) {
 
   body{
     width: 100%;
@@ -38,9 +38,11 @@ body{
     margin: 0;
     display: flex;
     justify-content: center;
+    align-items: center;
   }
   #root{
-    width: 50%;
+    width: 60%;
     height: 1350px;
+   
 }}
 

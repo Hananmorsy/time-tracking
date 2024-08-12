@@ -68,7 +68,7 @@ p{
     .hours{
         display: flex;
         flex-direction: row;
-        column-gap: 120px;
+        column-gap: 60px;
         font-size: 15px;
     }
     .point{
